@@ -1,0 +1,32 @@
+# This is a simple lindenmeyer project file
+# Author: Andreas Wilhelm
+# Project: Hilbert Curve
+
+# Image positioning and dimensions
+Dimensions : 1920, 1080
+Position : -200, -200
+
+# Number of iterations
+Iterations : 7
+
+# Default angle
+Angle : '90
+
+# Default line length
+Linelength : 3
+
+# Default line width
+Linewidth : 1
+
+# Default line color
+Linecolor : #00ff00
+
+# Default background color
+Background : #ffffff
+
+# Axiom definition
+Axiom : L 
+
+# Definition of mappings
+L = c+RF-LFL-FR+
+R = -LF+RFR+FL-

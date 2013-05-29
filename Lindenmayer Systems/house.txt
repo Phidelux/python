@@ -1,0 +1,32 @@
+# This is a simple lindenmeyer project file
+# Author: Andreas Wilhelm
+# Project: House of Santa
+
+# Image positioning and dimensions
+Dimensions : 1920, 1080
+Position : -500, 0
+
+# Number of iterations
+Iterations : 40
+
+# Default angle
+Angle : '45
+
+# Default line length
+Linelength : 35
+
+# Default line width
+Linewidth : 1
+
+# Default line color
+Linecolor : #00ff00
+
+# Default background color
+Background : #ffffff
+
+# Axiom definition
+Axiom : A 
+
+# Definition of mappings
+A = FZ++FZ++FZ+++FF++F++F++FF---FZB
+B = --A

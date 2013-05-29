@@ -1,0 +1,32 @@
+# This is a simple lindenmeyer project file
+# Author: Andreas Wilhelm
+# Project: Dragon Curve
+
+# Image positioning and dimensions
+Dimensions : 1920, 1080
+Position : -100, 200
+
+# Number of iterations
+Iterations : 14
+
+# Default angle
+Angle : '90
+
+# Default line length
+Linelength : 3
+
+# Default line width
+Linewidth : 1
+
+# Default line color
+Linecolor : #00ff00
+
+# Default background color
+Background : #ffffff
+
+# Axiom definition
+Axiom : -FX
+
+# Definition of mappings
+X = X+YF+
+Y = -FX-Y

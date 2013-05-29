@@ -1,0 +1,32 @@
+# This is a simple lindenmeyer project file
+# Author: Andreas Wilhelm
+# Project: Sierpinski's Triangle
+
+# Image positioning and dimensions
+Dimensions : 1920, 1080
+Position : 200, -400
+
+# Number of iterations
+Iterations : 6
+
+# Default angle
+Angle : '60
+
+# Default line length
+Linelength : 7
+
+# Default line width
+Linewidth : 1
+
+# Default line color
+Linecolor : #00ff00
+
+# Default background color
+Background : #ffffff
+
+# Axiom definition
+Axiom : FXF--FF--FF
+
+# Definition of mappings
+X = c--FXF++FXF++FXF--
+F = FF

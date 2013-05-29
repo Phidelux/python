@@ -1,0 +1,31 @@
+# This is a simple lindenmeyer project file
+# Author: Andreas Wilhelm
+# Project: Koch Curve
+
+# Image positioning and dimensions
+Dimensions : 1920, 1080
+Position : 0, 0
+
+# Number of iterations
+Iterations : 3
+
+# Default angle
+Angle : '90
+
+# Default line length
+Linelength : 3
+
+# Default line width
+Linewidth : 1
+
+# Default line color
+Linecolor : #00ff00
+
+# Default background color
+Background : #ffffff
+
+# Axiom definition
+Axiom : F+F+F+F 
+
+# Definition of mappings
+F = F+F-F-FF+F+F-F

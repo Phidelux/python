@@ -4,7 +4,7 @@ This program was written using the Python programming language and implements th
 
 Langton’s Ant is a very simple problem invented by Chris Langton in 1986. It basically covers a set of rules which together determine the behaviour of an ant that colors the ground while moving. 
 
-For more details take a look at my article [Langton’s Ant and Monty’s](Python http://avedo.net/542/langtons-ant-and-montys-python/).
+For more details take a look at my article [Langton’s Ant and Monty’s](http://avedo.net/542/langtons-ant-and-montys-python/).
 
 ## Disclaimer
 
